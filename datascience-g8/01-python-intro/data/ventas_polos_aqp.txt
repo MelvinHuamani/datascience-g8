@@ -1,0 +1,31 @@
+Registro de ventas - Polos estampados AQP
+
+ID, producto, talla, color, cliente, ciudad, cantidad, precio_unitario, metodo_pago, estado
+
+V001, Polo Oversize Anime, M, Negro, Valeria Rojas, Arequipa, 2, 45.00, Yape, entregado
+V002, Polo Streetwear Retro, L, Blanco, Diego Salazar, Arequipa, 1, 50.00, Efectivo, pendiente
+V003, Polo Minimalista Logo, S, Gris, Camila Herrera, Cusco, 3, 38.00, Plin, entregado
+V004, Polo Urbano 90s, M, Azul, Luis Ramos, Lima, 1, 55.00, Tarjeta, cancelado
+V005, Polo Oversize Anime, XL, Negro, Andrea Torres, Arequipa, 2, 45.00, Yape, entregado
+V006, Polo Gamer Edition, L, Rojo, Carlos Medina, Puno, 1, 48.00, Efectivo, pendiente
+V007, Polo Streetwear Retro, M, Blanco, Sofía Vargas, Arequipa, 4, 50.00, Plin, entregado
+V008, Polo Minimalista Logo, M, Verde, Jorge Flores, Tacna, 2, 38.00, Yape, entregado
+V009, Polo Gamer Edition, S, Negro, María Quispe, Arequipa, 1, 48.00, Tarjeta, pendiente
+V010, Polo Urbano 90s, L, Azul, Andrés Castillo, Cusco, 2, 55.00, Efectivo, entregado
+V011, Polo Oversize Anime, M, Morado, Lucía Vargas, Arequipa, 1, 45.00, Yape, entregado
+V012, Polo Streetwear Retro, XL, Blanco, Pedro Huamán, Lima, 2, 50.00, Plin, pendiente
+V013, Polo Minimalista Logo, L, Gris, Gabriela Núñez, Arequipa, 5, 38.00, Tarjeta, entregado
+V014, Polo Gamer Edition, M, Negro, Renato Paredes, Tacna, 2, 48.00, Yape, cancelado
+V015, Polo Urbano 90s, S, Azul, Fernanda López, Arequipa, 3, 55.00, Efectivo, entregado
+
+Instrucciones sugeridas para el ejercicio:
+1. Lee el archivo línea por línea.
+2. Ignora el título, la cabecera y las líneas vacías.
+3. Separa cada venta usando split(",").
+4. Calcula el total vendido por cada registro: cantidad * precio_unitario.
+5. Muestra cuántas ventas fueron entregadas, pendientes y canceladas.
+6. Calcula el ingreso total solo de las ventas entregadas.
+7. Muestra cuál fue el producto más vendido por cantidad.
+8. Muestra cuántas ventas se hicieron en Arequipa.
+9. Muestra el método de pago más usado.
+10. Reto extra: crea un resumen por producto con unidades vendidas e ingreso generado.

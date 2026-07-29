@@ -1,0 +1,20 @@
+Lista de estudiantes - Curso Python desde Cero
+
+Ana Torres, 18, Arequipa, 16.5
+Luis Ramos, 21, Lima, 14.0
+María Quispe, 19, Cusco, 18.2
+Carlos Medina, 22, Arequipa, 11.8
+Sofía Vargas, 20, Trujillo, 17.4
+Diego Salazar, 18, Puno, 13.6
+Valeria Rojas, 23, Lima, 19.0
+Jorge Flores, 21, Tacna, 12.5
+Camila Herrera, 19, Arequipa, 15.7
+Andrés Castillo, 20, Cusco, 10.9
+
+Instrucciones sugeridas para el ejercicio:
+1. Abre este archivo desde Python usando open().
+2. Lee todo el contenido con read().
+3. Luego intenta leerlo línea por línea usando un bucle for.
+4. Cuenta cuántos estudiantes aparecen en la lista.
+5. Muestra solo los estudiantes de Arequipa.
+6. Calcula cuántos estudiantes aprobaron considerando nota mínima 13.
