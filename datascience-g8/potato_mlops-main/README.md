@@ -28,6 +28,10 @@ Tecnologías y bibliotecas
 - Docker
 - Render
 
+Datos
+
+Las imágenes utilizadas para entrenar y evaluar el modelo provienen del conjunto de datos [Potato Leaf Disease Dataset](https://data.mendeley.com/datasets/d5b3fzpw3g/1), publicado en Mendeley Data por Ayesha Banu y Kaushik Deb.
+
 Estructura del proyecto
 
 potato_mlops-main/
